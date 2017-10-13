@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Oct 13, 2017 at 06:10 
+-- Generation Time: Oct 13, 2017 at 06:53 
 -- Server version: 5.5.8
 -- PHP Version: 5.3.5
 
@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
   `password` varchar(100) NOT NULL,
   `level` varchar(10) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
 
 --
 -- Dumping data for table `admin`
